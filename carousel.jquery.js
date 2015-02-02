@@ -4,8 +4,6 @@
  * Provides functionality to create all the typical types of carousel sliders
  * on modern websites.
  *
- * This is a *private* plugin, and should only be used by Message Digital Design.
- *
  * @author Message Digital Design <dev@message.co.uk>
  * @author Joe Holdcroft <joe@message.co.uk>
  */
